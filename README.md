@@ -9,7 +9,7 @@ I'm Vitaliy, a 33 years old web developer from Russia.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, NextJS, Effector, Redux
+- ⚙️ React, NextJS, Effector, Redux, NodeJS, NestJS
 - 👁️ SASS, CSS, Stylus, Tailwindcss
 - 💽 PostgreSQL, MSSQL, Mongo
 

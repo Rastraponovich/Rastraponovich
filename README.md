@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Rastraponovich
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Rastraponovich/Rastraponovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋&font=Fira%20Code&center=true&width=380&height=50&size=27&color=06161D">
+</p>
+
+
+I'm Vitaliy, a 33 years old web developer from Russia.
+
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React, NextJS, Effector, Redux
+- 👁️ SASS, CSS, Stylus, Tailwindcss
+- 💽 PostgreSQL, MSSQL, Mongo
+
+
